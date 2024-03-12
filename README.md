@@ -39,13 +39,13 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Instagram** app:
 
-<img src='https://imgur.com/a/EgzlBYL' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='./IMG_6329.jpg' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/MQotAq8' title='Video Demo' width='' alt='Video Demo' />
+<img src='./project3.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
